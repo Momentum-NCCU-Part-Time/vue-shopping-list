@@ -5,7 +5,7 @@
       "title": "Sample shopping list",
       "items": [
         {
-          "item-id": 1,
+          "id": 1,
           "item-name": "toilet paper",
           "purchased": false
         }
