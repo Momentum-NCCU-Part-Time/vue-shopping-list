@@ -72,7 +72,7 @@ To **delete a list**, make a `DELETE` request to `http://localhost:3000/lists/:i
 Your application should have the following functionality:
 
 1. A user can see a list of their shopping lists displayed on the page, including at least the number of items on the list.
-2. A user can click on a list to see all items displayed, and those purchased will appear crossed off the list (but not deleted).
+2. A user can click on a list to see all items displayed, and those purchased will appear crossed off the list (but not deleted) - and users can cross off items.
 3. A user can add a new list. When they do, their list should be added to the existing list of lists without a page refresh.
 4. A user can edit a list they have already created. When they do, their list (or at least list count) should be updated in the list of lists without a page refresh.
 5. A user can delete an existing list. When a list is deleted, it should automatically be removed from the list of lists without a page refresh.
