@@ -1,4 +1,4 @@
-# Note-Taking App: Vue Edition
+# Shopping List App: Vue
 
 ## Directions
 
